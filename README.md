@@ -5,7 +5,7 @@
 - 👩‍💻 She/her
 - 🎓 Computer Science Bachelor at USJT
 - 🌱 Always trying to learn something new
-- 💻 I'm currently working at Mastertech as a front-end developer and instructor for their tech courses
+- 💻 Front-end developer and instructor 
  
 ## :link: How to reach me:
 
